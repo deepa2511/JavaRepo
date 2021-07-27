@@ -1,0 +1,2 @@
+java is OOPS language.
+It is platform independent
