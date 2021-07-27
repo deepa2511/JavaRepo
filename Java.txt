@@ -1,2 +1,3 @@
 java is OOPS language.
 It is platform independent
+Supports multithreading and is robust language
